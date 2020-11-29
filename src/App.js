@@ -6,9 +6,9 @@ function App() {
     <div className="App">
      Weather App
      <footer>  
-     This is coded by Tess Niehoff    
+     This is coded by Tess Niehoff{" "}    
        <a href="https://github.com/tniehoff24?tab=repositories" taret="_blank"> 
-       on Github
+      on Github
      </a>
      .
      </footer>
